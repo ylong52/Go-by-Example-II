@@ -4,9 +4,9 @@
 
 -----------------------------------------------
 * [Hello World](https://github.com/BeanWei/Go-by-Example/blob/master/Hello%20World/hello-world.go)
-* Values -值的类型
-* Variables -定义变量
-* Constants -定义常量
-* For -for循环
-* if/else -if语句
-* switch -switch语句
+* [Values -值的类型](https://github.com/BeanWei/Go-by-Example/blob/master/Values/values.go)
+* [Variables -定义变量](https://github.com/BeanWei/Go-by-Example/blob/master/Variables/variables.go)
+* [Constants -定义常量](https://github.com/BeanWei/Go-by-Example/blob/master/Constants/constants.go)
+* [For -for循环](https://github.com/BeanWei/Go-by-Example/blob/master/For/for.go)
+* [if/else -if语句](https://github.com/BeanWei/Go-by-Example/blob/master/If-Else/if-else.go)
+* [switch -switch语句](https://github.com/BeanWei/Go-by-Example/blob/master/Switch/switch.go)
