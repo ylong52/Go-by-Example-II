@@ -14,3 +14,8 @@
 * [Slices -切片(数组切片)](https://github.com/BeanWei/Go-by-Example/blob/master/Slices/slices.go)
 * [Maps -maps(映射)字典](https://github.com/BeanWei/Go-by-Example/blob/master/Maps/maps.go)
 * [Range -range遍历](https://github.com/BeanWei/Go-by-Example/blob/master/Range/range.go)
+* [Functions -函数(单个返回值)](https://github.com/BeanWei/Go-by-Example/blob/master/Functions/functions.go)
+* [Multiple Return Values -函数(多个返回值)](https://github.com/BeanWei/Go-by-Example/blob/master/Multiple-Return-Values/multiple-return-values.go)
+* [Variadic Functions -可变长参数函数](https://github.com/BeanWei/Go-by-Example/blob/master/Variadic-Functions/variadic-functions.go)
+* [Closures -闭包](https://github.com/BeanWei/Go-by-Example/blob/master/Closures)
+* [Recursion -递归](https://github.com/BeanWei/Go-by-Example/blob/master/Recursion/recursion.go)
