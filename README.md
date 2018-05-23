@@ -3,7 +3,7 @@
 ## :fire: 里面加了自己的注释 :smile:
 
 -----------------------------------------------
-* [Hello World](#https://github.com/BeanWei/Go-by-Example/blob/master/Hello%20World/hello-world.go)
+* [Hello World](https://github.com/BeanWei/Go-by-Example/blob/master/Hello%20World/hello-world.go target="_blank")
 * Values -值的类型
 * Variables -定义变量
 * Constants -定义常量
