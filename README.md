@@ -9,4 +9,5 @@
 * [Constants -定义常量](https://github.com/BeanWei/Go-by-Example/blob/master/Constants/constants.go)
 * [For -for循环](https://github.com/BeanWei/Go-by-Example/blob/master/For/for.go)
 * [if/else -if语句](https://github.com/BeanWei/Go-by-Example/blob/master/If-Else/if-else.go)
-* [switch -switch语句](https://github.com/BeanWei/Go-by-Example/blob/master/Switch/switch.go)
+* [Switch -switch语句](https://github.com/BeanWei/Go-by-Example/blob/master/Switch/switch.go)
+* [Arrays -数组](https://github.com/BeanWei/Go-by-Example/blob/master/Arrays/arrays.go)
