@@ -11,3 +11,6 @@
 * [if/else -if语句](https://github.com/BeanWei/Go-by-Example/blob/master/If-Else/if-else.go)
 * [Switch -switch语句](https://github.com/BeanWei/Go-by-Example/blob/master/Switch/switch.go)
 * [Arrays -数组](https://github.com/BeanWei/Go-by-Example/blob/master/Arrays/arrays.go)
+* [Slices -切片(数组切片)](https://github.com/BeanWei/Go-by-Example/blob/master/Slices/slices.go)
+* [Maps -maps(映射)字典](https://github.com/BeanWei/Go-by-Example/blob/master/Maps/maps.go)
+* [Range -range遍历](https://github.com/BeanWei/Go-by-Example/blob/master/Range/range.go)
