@@ -1,4 +1,4 @@
-# 基于https://gobyexample.com/的Golang自学笔记
+# 基于 https://gobyexample.com/ 的Golang自学笔记
 
 ## :fire: 里面加了自己的注释 :smile:
 
