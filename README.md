@@ -35,3 +35,4 @@
 * [Closing Channels -信道关闭](https://github.com/BeanWei/Go-by-Example/blob/master/Closing-Channels/closing-channels.go)
 * [Range over Channels -遍历信道](https://github.com/BeanWei/Go-by-Example/blob/master/Range-over-Channels/range-over-channels.go)
 * [Timer -Go标准定时器](https://github.com/BeanWei/Go-by-Example/blob/master/Timer/timer.go)
+* [Ticker -Go循环定时器](https://github.com/BeanWei/Go-by-Example/blob/master/Ticker/ticker.go)
