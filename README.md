@@ -32,3 +32,6 @@
 * [Select -select/case语句](https://github.com/BeanWei/Go-by-Example/blob/master/Select/select.go)
 * [Timeout -超时(timeout)](https://github.com/BeanWei/Go-by-Example/blob/master/Timeout/timeout.go)
 * [Non-Blocking Channel Operations -非阻塞信道操作](https://github.com/BeanWei/Go-by-Example/blob/master/Non-Blocking-Channel-Operations/non-blocking-channel-operations.go)
+* [Closing Channels -信道关闭](https://github.com/BeanWei/Go-by-Example/blob/master/Closing-Channels/closing-channels.go)
+* [Range over Channels -遍历信道](https://github.com/BeanWei/Go-by-Example/blob/master/Range-over-Channels/range-over-channels.go)
+* [Timer -Go标准定时器](https://github.com/BeanWei/Go-by-Example/blob/master/Timer/timer.go)
