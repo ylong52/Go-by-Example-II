@@ -20,3 +20,6 @@
 * [Closures -闭包](https://github.com/BeanWei/Go-by-Example/blob/master/Closures)
 * [Recursion -递归](https://github.com/BeanWei/Go-by-Example/blob/master/Recursion/recursion.go)
 * [Pointers -指针](https://github.com/BeanWei/Go-by-Example/blob/master/Pointers/pointers.go)
+* [Structs -结构体](https://github.com/BeanWei/Go-by-Example/blob/master/Structs/structs.go)
+* [Methods -方法](https://github.com/BeanWei/Go-by-Example/blob/master/Methods/methods.go)
+* [Interfaces -接口](https://github.com/BeanWei/Go-by-Example/blob/master/Interfaces/interfaces.go)
