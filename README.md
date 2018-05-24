@@ -23,3 +23,4 @@
 * [Structs -结构体](https://github.com/BeanWei/Go-by-Example/blob/master/Structs/structs.go)
 * [Methods -方法](https://github.com/BeanWei/Go-by-Example/blob/master/Methods/methods.go)
 * [Interfaces -接口](https://github.com/BeanWei/Go-by-Example/blob/master/Interfaces/interfaces.go)
+* [Errors -异常](https://github.com/BeanWei/Go-by-Example/blob/master/Errors/errors.go)
