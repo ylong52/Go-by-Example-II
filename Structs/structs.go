@@ -63,7 +63,7 @@ func main() {
 	upPerson(pers2)
 	fmt.Printf("the name is %s %s\n", pers2.firstName, pers2.lastName)
 
-	//结构体作序列
+	//结构体直接初始化
 	pers3 := &Person{"Bean", "Wei"}
 	upPerson(pers3)
 	fmt.Printf("the name is %s %s\n", pers3.firstName, pers3.lastName)
