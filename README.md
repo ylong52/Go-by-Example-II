@@ -29,3 +29,6 @@
 * [Channel Buffering -Go信道缓冲(channel-buffering)](https://github.com/BeanWei/Go-by-Example/blob/master/Channel-Buffering/channel-buffering.go)
 * [Channel Sync -Go信道同步(channel-sync)](https://github.com/BeanWei/Go-by-Example/blob/master/Channel-Sync/channel-sync.go)
 * [Channels Directions -Go信道方向(channel-directions)](https://github.com/BeanWei/Go-by-Example/blob/master/Channels-Directions/channel-directions.go)
+* [Select -select/case语句](https://github.com/BeanWei/Go-by-Example/blob/master/Select/select.go)
+* [Timeout -超时(timeout)](https://github.com/BeanWei/Go-by-Example/blob/master/Timeout/timeout.go)
+* [Non-Blocking Channel Operations -非阻塞信道操作](https://github.com/BeanWei/Go-by-Example/blob/master/Non-Blocking-Channel-Operations/non-blocking-channel-operations.go)
