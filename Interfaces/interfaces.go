@@ -77,3 +77,7 @@ $ go run interfaces.go
 78.53981633974483
 31.41592653589793
 */
+
+/*
+http://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go
+*/
