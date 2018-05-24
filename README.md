@@ -24,3 +24,8 @@
 * [Methods -方法](https://github.com/BeanWei/Go-by-Example/blob/master/Methods/methods.go)
 * [Interfaces -接口](https://github.com/BeanWei/Go-by-Example/blob/master/Interfaces/interfaces.go)
 * [Errors -异常](https://github.com/BeanWei/Go-by-Example/blob/master/Errors/errors.go)
+* [Goroutines -Go协程(goroutine)](https://github.com/BeanWei/Go-by-Example/blob/master/Goroutines/goroutines.go)
+* [Channels -Go信道(channel)](https://github.com/BeanWei/Go-by-Example/blob/master/Channels/channels.go)
+* [Channel Buffering -Go信道缓冲(channel-buffering)](https://github.com/BeanWei/Go-by-Example/blob/master/Channel-Buffering/channel-buffering.go)
+* [Channel Sync -Go信道同步(channel-sync)](https://github.com/BeanWei/Go-by-Example/blob/master/Channel-Sync/channel-sync.go)
+* [Channels Directions -Go信道方向(channel-directions)](https://github.com/BeanWei/Go-by-Example/blob/master/Channels-Directions/channel-directions.go)
