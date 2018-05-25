@@ -40,3 +40,5 @@
 * [Rate Limiting -并发之限速](https://github.com/BeanWei/Go-by-Example/blob/master/Rate%20Limiting/rate-limiting.go)
 * [Atomic -atomic原子操作](https://github.com/BeanWei/Go-by-Example/blob/master/Atomic/atomic-counter.go)
 * [Mutex -Go互斥锁](https://github.com/BeanWei/Go-by-Example/blob/master/Mutex/mutexes.go)
+* [Sorting -Go内置排序](https://github.com/BeanWei/Go-by-Example/blob/master/Sorting/sorting.go)
+* [Sorting by Function -Go自定义排序](https://github.com/BeanWei/Go-by-Example/blob/master/Sorting%20by%20Function/sorting-by-function.go)
