@@ -36,3 +36,4 @@
 * [Range over Channels -遍历信道](https://github.com/BeanWei/Go-by-Example/blob/master/Range%20over%20Channels/range-over-channels.go)
 * [Timer -Go标准定时器](https://github.com/BeanWei/Go-by-Example/blob/master/Timer/timer.go)
 * [Ticker -Go循环定时器](https://github.com/BeanWei/Go-by-Example/blob/master/Ticker/ticker.go)
+* [Worker Pools -并发之简单的工作者池](https://github.com/BeanWei/Go-by-Example/blob/master/Worker%20Pools/worker-pools.go)
