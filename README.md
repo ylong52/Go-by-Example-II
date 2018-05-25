@@ -31,7 +31,7 @@
 * [Channels Directions -Go信道方向(channel-directions)](https://github.com/BeanWei/Go-by-Example/blob/master/Channels%20Directions/channel-directions.go)
 * [Select -select/case语句](https://github.com/BeanWei/Go-by-Example/blob/master/Select/select.go)
 * [Timeout -超时(timeout)](https://github.com/BeanWei/Go-by-Example/blob/master/Timeout/timeout.go)
-* [Non-Blocking Channel Operations -非阻塞信道操作](https://github.com/BeanWei/Go-by-Example/blob/master/Non-Blocking%20Channel%20Operations/non-blocking-channel-operations.go)
+* [Non-Blocking Channel Operations -非阻塞信道操](https://github.com/BeanWei/Go-by-Example/blob/master/Non-Blocking%20Channel%20Operations/non-blocking-channel-operations.go)
 * [Closing Channels -信道关闭](https://github.com/BeanWei/Go-by-Example/blob/master/Closing%20Channels/closing-channels.go)
 * [Range over Channels -遍历信道](https://github.com/BeanWei/Go-by-Example/blob/master/Range%20over%20Channels/range-over-channels.go)
 * [Timer -Go标准定时器](https://github.com/BeanWei/Go-by-Example/blob/master/Timer/timer.go)
