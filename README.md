@@ -37,3 +37,4 @@
 * [Timer -Go标准定时器](https://github.com/BeanWei/Go-by-Example/blob/master/Timer/timer.go)
 * [Ticker -Go循环定时器](https://github.com/BeanWei/Go-by-Example/blob/master/Ticker/ticker.go)
 * [Worker Pools -并发之简单的工作者池](https://github.com/BeanWei/Go-by-Example/blob/master/Worker%20Pools/worker-pools.go)
+* [Rate Limiting -并发之限速](https://github.com/BeanWei/Go-by-Example/blob/master/Rate%20Limiting/rate-limiting.go)
