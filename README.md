@@ -51,7 +51,7 @@
 * [JSON -json编解码](https://github.com/BeanWei/Go-by-Example/blob/master/JSON/json.go)
 * [Time -时间](https://github.com/BeanWei/Go-by-Example/blob/master/Time/time.go)
 * [Epoch -时间戳](https://github.com/BeanWei/Go-by-Example/blob/master/Epoch/epoch.go)
-* [Time Formatting and Parsing -时间戳](https://github.com/BeanWei/Go-by-Example/blob/master/Time%20Formatting%20and%20Parsing/time-formatting-and-parsing.go)
+* [Time Formatting and Parsing -时间格式化和解析](https://github.com/BeanWei/Go-by-Example/blob/master/Time%20Formatting%20and%20Parsing/time-formatting-and-parsing.go)
 * [Random Numbers -随机数](https://github.com/BeanWei/Go-by-Example/blob/master/Random%20Numbers/random-numbers.go)
 * [Number Parsing -数字解析](https://github.com/BeanWei/Go-by-Example/blob/master/Number%20Parsing/number-parsing.go)
 * [URL Parsing -URL解析](https://github.com/BeanWei/Go-by-Example/blob/master/URL%20Parsing/url-parsing.go)
